@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kirksw
+- 👀 I’m interested in IIoT applications relating to Big Data and Machine Learning
+- 📫 How to reach me: kirk.sweeney@outlook.com
